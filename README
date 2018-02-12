@@ -1,13 +1,13 @@
 Vendor blobs for Nokia 3
 
-![vb](/vb.jpg "Vendor Blobs")
+![vb](vb.jpg "Vendor Blobs")
 
 Base On :
 
-- ```Model ID : TA-1032```
+- Model ID : TA-1032
 
-- ```ro.build.id = NMF26O```
+- ro.build.id = NMF26O
 
-- ```ro.build.sp.num = SP02```
+- ro.build.sp.num = SP02
 
-- ```ro.fih.security.base = 00WW_2_15H```
+- ro.fih.security.base = 00WW_2_15H
